@@ -4,7 +4,8 @@
   "layout": "LAYOUT",
   "layer_names": [
     "base",
-    "raise"
+    "raise",
+    "layer2"
   ],
   "layers": [
     [
