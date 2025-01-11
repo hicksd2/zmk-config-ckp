@@ -32,7 +32,7 @@
 				&kp NON_US_HASH &trans &kp UP &trans &trans &rgb_ug RGB_EFF &rgb_ug RGB_EFR &trans &kp INS &trans &kp PSCRN &kp SLCK &kp PAUSE_BREAK &kp PG_UP
 				&trans &kp LEFT &kp DOWN &kp RIGHT &rgb_ug RGB_TOG &rgb_ug RGB_SAI &rgb_ug RGB_SAD &rgb_ug RGB_HUI &rgb_ug RGB_HUD &trans &kp HOME  &trans &kp PG_DN
 				&trans &kp C_PREV &kp C_NEXT &trans &rgb_ug RGB_BRI &rgb_ug RGB_BRD &rgb_ug RGB_SPI &rgb_ug RGB_SPD &trans &bl BL_DEC &bl BL_INC  &bl BL_TOG
-				&kp C_MUTE &kp C_VOL_DN  &kp C_VOL_UP              &kp K_PP                            &trans   &trans   &kp K_PASTE &trans
+				&kp C_MUTE &kp C_VOL_DN  &kp C_VOL_UP              &kp K_PP                            &mo 2   &trans   &kp K_PASTE &trans
 			>;
 			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
 		};
